@@ -38,7 +38,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-https://www.linkedin.com/in/moti-elmakies-5809681b7/
+
 
 
 <br/>
@@ -51,4 +51,4 @@ https://www.linkedin.com/in/moti-elmakies-5809681b7/
 <a href="mailto:motiphone2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-motiphone2003@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+
